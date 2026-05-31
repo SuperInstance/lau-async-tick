@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "THE async tick engine — non-blocking tick processing with priority queues"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-async-tick"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
